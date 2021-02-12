@@ -1,0 +1,66 @@
+{
+  "computers": [
+    {
+      "id": 1,
+      "model": "Macbook Pro",
+      "year": 2015
+    },
+    {
+      "id": 2,
+      "model": "ASUS Vivobook",
+      "year": 2018
+    },
+    {
+      "id": 3,
+      "model": "Lenovo IdeaPad",
+      "year": 2020
+    },
+    {
+      "id": 4,
+      "model": "Dell Inspiron",
+      "year": 2017
+    },
+    {
+      "id": 5,
+      "model": "HP Pavilion",
+      "year": 2016
+    },
+    {
+      "id": 6,
+      "model": "Dell G7",
+      "year": 2021
+    }
+  ],
+  "employees": [
+    {
+      "id": 1,
+      "firstName": "Rainu",
+      "lastName": "Ittycheriah",
+      "computerId": 1
+    },
+    {
+      "id": 1,
+      "firstName": "Wesley",
+      "lastName": "Harrison",
+      "computerId": 2
+    },
+    {
+      "id": 1,
+      "firstName": "Thomas",
+      "lastName": "Frazier",
+      "computerId": 3
+    },
+    {
+      "id": 1,
+      "firstName": "Vincent",
+      "lastName": "O'Leary",
+      "computerId": 4
+    },
+    {
+      "id": 1,
+      "firstName": "Aaron",
+      "lastName": "Frazier",
+      "computerId": 5
+    }
+  ]
+}
